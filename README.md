@@ -2,7 +2,6 @@
 
 
 <h3>Welcome to my page!</h3>I'm Peter, a learner of back-end development from 🇨🇳 <b>Suzhou, China</b>, currently a senior student from <img src="./images/University Icon.png" width="5%" alt="University Icon"/><b>Nanjing University of Information Science & Technology</b>.
-
 <h3>Things I code with:</h3>
 <p>
 <img alt="Java" src="https://img.shields.io/badge/Java-45b8d8?style=flat-square" />
@@ -34,6 +33,7 @@
 - 📚 Reading is my favorite thing to do. <br>
 - 📨 Find me through E-mail: **18136892032@163.com**<br>
 - 💛 My motto: No time to sorrow, we're building tomorrow.<br>
+- 🎃 You can learn more about me through <a href="https://peterwangll.github.io">my blog.</a>
 <hr></hr>
 
 
