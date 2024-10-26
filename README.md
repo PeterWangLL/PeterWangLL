@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<h3>Welcome to my page!</h3>I'm Peter, a learner of back-end development from 🇨🇳 <b>Suzhou, China</b>, currently a senior student from <img src="./images/University Icon.png" width="2%" alt="University Icon"/><b>Nanjing University of Information Science & Technology</b>.
+<h3>Welcome to my page!</h3>I'm Peter, a learner of back-end development from 🇨🇳 <b>Suzhou, China</b>, currently a senior student from <img src="./images/University Icon.png" width="5%" alt="University Icon"/><b>Nanjing University of Information Science & Technology</b>.
 
 <h3>Things I code with:</h3>
 <p>
